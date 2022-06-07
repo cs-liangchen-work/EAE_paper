@@ -34,6 +34,14 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 ### 图神经-GCN
 
+- ACL2021: Document-Level Event Argument Extraction via Optimal Transport
+
+  - Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
+  - url: https://aclanthology.org/2022.findings-acl.130/
+
+
+
+
 # ED:事件检测（event detection）
 - ACL2022: **Saliency as Evidence: Event Detection with Trigger Saliency Attribution**
 
