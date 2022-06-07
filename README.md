@@ -4,6 +4,7 @@ based on https://github.com/carrie0307/DL_EventExtractionPapers, 在自己读文
 
 # 生成式
 - arxiv2020: Document-level Event-based Extraction Using Generative Template-filling Transformers
+
   - Authors: Xinya Du, Alexander Rush, Claire Cardie
   - url: https://arxiv.org/abs/2008.09249
 
