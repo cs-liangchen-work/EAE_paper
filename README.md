@@ -31,7 +31,7 @@ based on https://github.com/carrie0307/DL_EventExtractionPapers.
 ### 图神经-GCN
 
 # ED:事件检测（event detection）
-- ACL2022: Saliency as Evidence: Event Detection with Trigger Saliency Attribution
+- ACL2022: **Saliency as Evidence: Event Detection with Trigger Saliency Attribution**
 
   - Authors: Jian Liu, Yufeng Chen, Jinan Xu
   - url: https://aclanthology.org/2022.acl-long.313/
