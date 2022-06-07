@@ -30,6 +30,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Sha Li, Heng Ji, Jiawei Han
   - url: https://www.aclweb.org/anthology/2021.naacl-main.69/
 
+- ACL2022: Dynamic Prefix-Tuning for Generative Template-based Event Extraction
+
+  - Authors: Xiao Liu, Heyan Huang, Ge Shi, Bo Wang
+  - url: https://aclanthology.org/2022.acl-long.358
+
+
+
 ### QA/MRC
 
 ### 图神经-GCN
