@@ -36,6 +36,17 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://aclanthology.org/2022.acl-long.358
 
 
+- EMNLP2020: Event Extraction as Machine Reading Comprehension
+
+  - Authors: Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu
+  - url: https://www.aclweb.org/anthology/2020.emnlp-main.128/
+
+- EMNLP2021: Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction
+
+  - Authors: Jian Liu, Yufeng Chen, Jinan Xu
+  - url: https://aclanthology.org/2021.emnlp-main.214.pdf
+
+
 
 ### QA/MRC
 
@@ -55,15 +66,6 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
   - url: https://aclanthology.org/2022.findings-acl.130/
 
-- EMNLP2020: Event Extraction as Machine Reading Comprehension
-
-  - Authors: Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu
-  - url: https://www.aclweb.org/anthology/2020.emnlp-main.128/
-
-- EMNLP2021: Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction
-
-  - Authors: Jian Liu, Yufeng Chen, Jinan Xu
-  - url: https://aclanthology.org/2021.emnlp-main.214.pdf
 
 
 
