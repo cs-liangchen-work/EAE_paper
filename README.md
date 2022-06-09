@@ -39,6 +39,15 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 ### QA/MRC
 
+- **EMNLP2020: Event Extraction by Answering (Almost) Natural Questions**
+
+  - Authors: Xinya Du and Claire Cardie
+  - url: https://arxiv.org/abs/2004.13625
+
+
+
+
+
 ### 图神经-GCN
 
 - ACL2021: Document-Level Event Argument Extraction via Optimal Transport
@@ -46,6 +55,15 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
   - url: https://aclanthology.org/2022.findings-acl.130/
 
+- EMNLP2020: Event Extraction as Machine Reading Comprehension
+
+  - Authors: Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu
+  - url: https://www.aclweb.org/anthology/2020.emnlp-main.128/
+
+- EMNLP2021: Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction
+
+  - Authors: Jian Liu, Yufeng Chen, Jinan Xu
+  - url: https://aclanthology.org/2021.emnlp-main.214.pdf
 
 
 
