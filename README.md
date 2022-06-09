@@ -10,6 +10,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 # DATASET
 - [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
+- [LEVEN: A Large-Scale Chinese Legal Event Detection Dataset](https://aclanthology.org/2022.findings-acl.17/)
 
 
 
