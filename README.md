@@ -83,6 +83,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
   - url: https://aclanthology.org/2022.findings-acl.130/
 
+- ACL2022-findings: A Graph Enhanced BERT Model for Event Prediction
+
+  - Authors: Li Du, Xiao Ding, Yue Zhang, ting liu, Bing Qin
+  - url: https://aclanthology.org/2022.findings-acl.206/
 
 
 
