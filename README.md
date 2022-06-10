@@ -128,10 +128,21 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Senhui Zhang, Tao Ji, Wendi Ji, Xiaoling Wang
   - url: https://github.com/KindRoach/NAACL-ZEOP
 
+- NAACL2022: Cross-Lingual Event Detection via Optimized Adversarial Training
+
+  - Authors: Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
+  - url: https://openreview.net/forum?id=SlxGJEGHZq
+
 # Multi-Language:
 
 - ACL2022: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
 
   - Authors: Kuan-Hao Huang, I-Hung Hsu, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
   - url: https://aclanthology.org/2022.acl-long.317.pdf
+
+- NAACL2022: Cross-Lingual Event Detection via Optimized Adversarial Training
+
+  - Authors: Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
+  - url: https://openreview.net/forum?id=SlxGJEGHZq
+
 
