@@ -18,7 +18,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 
 # EAE:隐式事件抽取（event argument extraction）
-### GAN-生成式
+### GEN-生成式
 - arxiv2020: **Document-level Event-based Extraction Using Generative Template-filling Transformers**
 
   - Authors: Xinya Du, Alexander Rush, Claire Cardie
