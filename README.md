@@ -43,7 +43,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Qintong Li, Piji Li, Wei Bi, Zhaochun Ren, Yuxuan Lai, Lingpeng Kong
   - url: https://aclanthology.org/2022.findings-acl.269.pdf
 
+- ACL2022: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
 
+  - Authors: Kuan-Hao Huang, I-Hung Hsu, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
+  - url: https://aclanthology.org/2022.acl-long.317.pdf
 
 ### QA/MRC
 
