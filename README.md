@@ -96,6 +96,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao
   - url: https://aclanthology.org/2022.acl-demo.23/
 
+- NAACL2022: Event Schema Induction with Double Graph Autoencoders
+
+  - Authors: Xiaomeng Jin, Manling Li, Heng Ji
+  - url: https://blender.cs.illinois.edu/paper/schema2022.pdf
+
 # DA：数据增强（Data Augmentation）
 
 - ACL2022: ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification
