@@ -13,6 +13,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 - [LEVEN: A Large-Scale Chinese Legal Event Detection Dataset](https://aclanthology.org/2022.findings-acl.17/)
 - [Roles Across Multiple Sentences (RAMS)](https://nlp.jhu.edu/rams/)
 - DuEE: A Large-Scale Dataset for Chinese Event Extraction in Real-World Scenarios
+- MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection
 
 
 
@@ -126,3 +127,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Senhui Zhang, Tao Ji, Wendi Ji, Xiaoling Wang
   - url: https://github.com/KindRoach/NAACL-ZEOP
+
+# Multi-Language:
+
+- ACL2022: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
+
+  - Authors: Kuan-Hao Huang, I-Hung Hsu, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
+  - url: https://aclanthology.org/2022.acl-long.317.pdf
+
