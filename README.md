@@ -93,6 +93,16 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao
   - url: https://aclanthology.org/2022.acl-demo.23/
 
+# DA：数据增强（Data Augmentation）
+
+- ACL2022: ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification
+
+  - Authors: Yucheng Zhou, Tao Shen, Xiubo Geng, Guodong Long, Daxin Jiang
+  - url: https://aclanthology.org/2022.acl-long.183/
+
+
+
+
 # ED:事件检测（event detection）
 - ACL2022: **Saliency as Evidence: Event Detection with Trigger Saliency Attribution**
 
