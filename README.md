@@ -65,10 +65,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 ### Multi-Role
 
-- ACL2022-findings: Event Transition Planning for Open-ended Text Generation
+- ACL2022-findings: Query and Extract: Refining Event Extraction as Type-oriented Binary Decoding
 
-  - Authors: Qintong Li, Piji Li, Wei Bi, Zhaochun Ren, Yuxuan Lai, Lingpeng Kong
-  - url: https://aclanthology.org/2022.findings-acl.269.pdf
+  - Authors: Sijia Wang, Mo Yu, Shiyu Chang, Lichao Sun, Lifu Huang
+  - url: https://arxiv.org/abs/2110.07476
 
 - ACL2022: Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction
 
