@@ -88,7 +88,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Li Du, Xiao Ding, Yue Zhang, ting liu, Bing Qin
   - url: https://aclanthology.org/2022.findings-acl.206/
 
+- ACL2022: MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities
 
+  - Authors: Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao
+  - url: https://aclanthology.org/2022.acl-demo.23/
 
 # ED:事件检测（event detection）
 - ACL2022: **Saliency as Evidence: Event Detection with Trigger Saliency Attribution**
