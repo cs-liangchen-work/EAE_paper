@@ -116,3 +116,8 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   Authors: Luis Fernando Guzman-Nateras, Viet Dac Lai, Amir Pouran Ben Veyseh, Franck Dernoncourt, Thien Huu Nguyen
   - url: https://openreview.net/pdf?id=SelBkQGB-q
+
+- NAACL2022-findings: Zero-Shot Event Detection Based on Ordered Contrastive Learning and Prompt-Based
+
+  - Authors: Senhui Zhang, Tao Ji, Wendi Ji, Xiaoling Wang
+  - url: https://github.com/KindRoach/NAACL-ZEOP
