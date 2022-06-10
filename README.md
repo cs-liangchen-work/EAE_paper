@@ -111,3 +111,8 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Jian Liu, Yufeng Chen, Jinan Xu
   - url: https://aclanthology.org/2022.acl-long.313/
+
+- NAACL2022-findings: Event Detection for Suicide Understanding
+
+  Authors: Luis Fernando Guzman-Nateras, Viet Dac Lai, Amir Pouran Ben Veyseh, Franck Dernoncourt, Thien Huu Nguyen
+  - url: https://openreview.net/pdf?id=SelBkQGB-q
