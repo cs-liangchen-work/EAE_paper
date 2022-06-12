@@ -108,7 +108,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Xiaomeng Jin, Manling Li, Heng Ji
   - url: https://blender.cs.illinois.edu/paper/schema2022.pdf
 
-- NAACL2022: A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction
+- NAACL2022: **A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction**
 
   - Authors: Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui
   - url: https://arxiv.org/abs/2205.00241
