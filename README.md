@@ -55,6 +55,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
   - url: https://arxiv.org/pdf/2108.12724.pdf
 
+
+- NAACL2022-findings: EA2E: Improving Consistency with Event Awareness for Document-Level Argument Extraction
+
+  - Authors: Qi Zeng, Qiusi Zhan, Heng Ji
+  - url: https://arxiv.org/abs/2205.14847v1
+
+
 ### QA/MRC
 
 - EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
@@ -84,6 +91,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Yubo Ma, Zehao Wang, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao
   - url: https://aclanthology.org/2022.acl-long.466
+
+### Multi-event
+
+- NAACL2022-findings: EA2E: Improving Consistency with Event Awareness for Document-Level Argument Extraction
+
+  - Authors: Qi Zeng, Qiusi Zhan, Heng Ji
+  - url: https://arxiv.org/abs/2205.14847v1
 
 
 ### 图神经-GCN
