@@ -112,6 +112,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui
   - url: https://arxiv.org/abs/2205.00241
+  - code：https://github.com/PKUnlp-icler/TSAR
 
 # DA：数据增强（Data Augmentation）
 
