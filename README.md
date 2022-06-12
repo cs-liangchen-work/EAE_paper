@@ -49,6 +49,12 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Kuan-Hao Huang, I-Hung Hsu, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
   - url: https://aclanthology.org/2022.acl-long.317.pdf
 
+
+- NAACL2022: DEGREE: A Data-Efficient Generation-Based Event Extraction Model
+
+  - Authors: I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
+  - url: https://arxiv.org/pdf/2108.12724.pdf
+
 ### QA/MRC
 
 - EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
