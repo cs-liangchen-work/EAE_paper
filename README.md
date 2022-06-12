@@ -133,6 +133,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
   - url: https://openreview.net/forum?id=SlxGJEGHZq
 
+- ACL2022: Low Resource Causal Event Detection from Biomedical Literature
+
+  - Authors: Zhengzhong Liang, Enrique Noriega-Atala, Clayton Morrison, Mihai Surdeanu
+  - url: https://aclanthology.org/2022.bionlp-1.24/
+
 # Multi-Language:
 
 - ACL2022: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
