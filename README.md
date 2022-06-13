@@ -128,6 +128,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://arxiv.org/abs/2205.00241
   - code：https://github.com/PKUnlp-icler/TSAR
 
+### Others
+- NAACL2022-findings: Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
+  - 文本蕴含
+  - Authors: Oscar Sainz, Itziar Gonzalez-Dios, Oier Lopez de Lacalle, Bonan Min, Eneko Agirre
+  - url: https://arxiv.org/abs/2205.01376
+
+
 # DA：数据增强（Data Augmentation）
 
 - ACL2022: ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification
@@ -176,9 +183,6 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
   - url: https://openreview.net/forum?id=SlxGJEGHZq
 
-- NAACL2022-findings: Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
 
-  - Authors: Oscar Sainz, Itziar Gonzalez-Dios, Oier Lopez de Lacalle, Bonan Min, Eneko Agirre
-  - url: https://arxiv.org/abs/2205.01376
 
 
