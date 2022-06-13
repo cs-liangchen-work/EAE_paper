@@ -190,7 +190,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 # Special-domain
 
 - ACL2022: BEEDS: Large-Scale Biomedical Event Extraction using Distant Supervision and Question Answering
-- 
+
   - 生物医学
   - Authors: Xing David Wang, Ulf Leser, Leon Weber
   - url: https://aclanthology.org/2022.bionlp-1.28/
