@@ -61,6 +61,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Qi Zeng, Qiusi Zhan, Heng Ji
   - url: https://arxiv.org/abs/2205.14847v1
 
+- EACL2021: GRIT: Generative Role-filler Transformers for Document-level Event Entity Extraction
+
+  - Authors: Xinya Du, Alexander M. Rush, Claire Cardie
+  - url: https://arxiv.org/abs/2008.09249
 
 ### QA/MRC
 
