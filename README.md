@@ -14,6 +14,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 - [Roles Across Multiple Sentences (RAMS)](https://nlp.jhu.edu/rams/)
 - DuEE: A Large-Scale Dataset for Chinese Event Extraction in Real-World Scenarios
 - MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection
+- [Duee-fin: a document-level event extraction dataset in the financial domain released by baidu](https://aistudio.baidu.com/aistudio/competition/detail/46/0/task-definition)
 
 
 
