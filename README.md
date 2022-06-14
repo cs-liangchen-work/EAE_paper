@@ -111,6 +111,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Xinya Du, Sha Li, Heng Ji
   - url: https://aclanthology.org/2022.acl-long.361/
 
+- NAACL2022: RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction
+
+  - Authors: Yuan Liang, Zhuoxuan Jiang, di yin, Bo Ren
+  - url: https://arxiv.org/abs/2206.03377
 
 ### 图神经-GCN
 
