@@ -99,6 +99,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Qi Zeng, Qiusi Zhan, Heng Ji
   - url: https://arxiv.org/abs/2205.14847v1
 
+- ACL2022: Dynamic Global Memory for Document-level Argument Extraction
+
+  - Authors: Xinya Du, Sha Li, Heng Ji
+  - url: https://aclanthology.org/2022.acl-long.361/
+
 
 ### 图神经-GCN
 
