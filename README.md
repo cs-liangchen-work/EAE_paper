@@ -139,6 +139,12 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://arxiv.org/abs/2205.00241
   - code：https://github.com/PKUnlp-icler/TSAR
 
+- NAACL2022: Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss
+
+  - Authors: Hanzhang Zhou, Kezhi Mao
+  - url: https://openreview.net/forum?id=SclmqMGrb9
+
+
 ### Others
 - NAACL2022-findings: Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
   - 文本蕴含
