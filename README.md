@@ -187,6 +187,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Yucheng Zhou, Tao Shen, Xiubo Geng, Guodong Long, Daxin Jiang
   - url: https://aclanthology.org/2022.acl-long.183/
 
+- EMNLP2021: Corpus-based Open-Domain Event Type Induction
+
+  - Authors: Jiaming Shen, Yunyi Zhang, Heng Ji, Jiawei Han
+  - url: https://aclanthology.org/2021.emnlp-main.441.pdf
 
 
 
