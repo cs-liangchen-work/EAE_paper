@@ -164,6 +164,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Hanzhang Zhou, Kezhi Mao
   - url: https://openreview.net/forum?id=SclmqMGrb9
 
+- EMNLP2021: The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction
+
+  - Authors: Manling Li, Sha Li, Zhenhailong Wang, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han, Clare Voss
+  - url: https://aclanthology.org/2021.emnlp-main.422.pdf
+
 
 ### Others
 - NAACL2022-findings: Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
