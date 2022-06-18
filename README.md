@@ -87,6 +87,21 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://aclanthology.org/2021.emnlp-main.214.pdf
 
 
+### Others span-based
+
+- ACL2020: Multi-Sentence Argument Linking
+
+  - Authors: Seth Ebner, Patrick Xia, Ryan Culkin, Kyle Rawlins, Benjamin Van DurmeA
+  - url: https://www.aclweb.org/anthology/2020.acl-main.718/
+
+- ACL2020: A Two-Step Approach for Implicit Event Argument Detection
+
+  - Authors: Zhisong Zhang, Xiang Kong, Zhengzhong Liu, Xuezhe Ma and Eduard Hovy
+  - url: https://www.aclweb.org/anthology/2020.acl-main.667/
+  - code: https://github.com/zzsfornlp/zmsp
+
+
+
 ### Multi-Role
 
 - ACL2022-findings: Query and Extract: Refining Event Extraction as Type-oriented Binary Decoding
