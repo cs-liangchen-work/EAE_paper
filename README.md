@@ -225,8 +225,14 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Author：Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, Tou Huaixiao, Mosha Chen, Fei Huang, Huajun Chen
   - url: https://aclanthology.org/2021.acl-long.220/
 
+ - ACL2021: MLBiNet: A Cross-Sentence Collective Event Detection Network
+  - Authors: Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang, Huajun Chen
+  - url: https://aclanthology.org/2021.acl-long.373/
 
-
+- ACL2021: Event Detection as Graph Parsing
+  - Authors: Jianye Xie, Haotong Sun, Junsheng Zhou, Weiguang Qu, Xinyu Dai
+  - url: https://aclanthology.org/2021.findings-acl.142/
+ 
 # Multi-Language:
 
 - ACL2022: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
