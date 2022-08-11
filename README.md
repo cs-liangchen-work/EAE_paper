@@ -219,6 +219,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Zhengzhong Liang, Enrique Noriega-Atala, Clayton Morrison, Mihai Surdeanu
   - url: https://aclanthology.org/2022.bionlp-1.24/
+  
+- ACL2021：OntoED: Low-resource Event Detection with Ontology Embedding
+
+  - Author：Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, Tou Huaixiao, Mosha Chen, Fei Huang, Huajun Chen
+  - url: https://aclanthology.org/2021.acl-long.220/
+
+
 
 # Multi-Language:
 
