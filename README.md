@@ -114,6 +114,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Yubo Ma, Zehao Wang, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao
   - url: https://aclanthology.org/2022.acl-long.466
 
+- ACL2021: Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder
+  
+  - Author: Xi Xiangyu, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang, Wei Wu
+  - url: https://aclanthology.org/2021.acl-long.18/
+
 ### Multi-event
 
 - NAACL2022-findings: EA2E: Improving Consistency with Event Awareness for Document-Level Argument Extraction
