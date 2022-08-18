@@ -202,7 +202,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 - NAACL2022-findings: Event Detection for Suicide Understanding
 
-  Authors: Luis Fernando Guzman-Nateras, Viet Dac Lai, Amir Pouran Ben Veyseh, Franck Dernoncourt, Thien Huu Nguyen
+  - Authors: Luis Fernando Guzman-Nateras, Viet Dac Lai, Amir Pouran Ben Veyseh, Franck Dernoncourt, Thien Huu Nguyen
   - url: https://openreview.net/pdf?id=SelBkQGB-q
 
 - NAACL2022-findings: Zero-Shot Event Detection Based on Ordered Contrastive Learning and Prompt-Based
@@ -226,10 +226,12 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://aclanthology.org/2021.acl-long.220/
 
  - ACL2021: MLBiNet: A Cross-Sentence Collective Event Detection Network
+ 
   - Authors: Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang, Huajun Chen
   - url: https://aclanthology.org/2021.acl-long.373/
 
 - ACL2021: Event Detection as Graph Parsing
+
   - Authors: Jianye Xie, Haotong Sun, Junsheng Zhou, Weiguang Qu, Xinyu Dai
   - url: https://aclanthology.org/2021.findings-acl.142/
  
