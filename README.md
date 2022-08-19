@@ -250,6 +250,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Author：Zhihan Zhou, Liqian Ma, Han Liu
   - url：https://aclanthology.org/2021.findings-acl.186/
+
+- ACL2021: Unsupervised Domain Adaptation for Event Detection using Domain-specific Adapters
+
+  - Author: Nghia Ngo Trung, Duy Phung, Thien Huu Nguyen
+  - url: https://aclanthology.org/2021.findings-acl.351/
  
 # Multi-Language:
 
