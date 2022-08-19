@@ -239,6 +239,16 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Jianye Xie, Haotong Sun, Junsheng Zhou, Weiguang Qu, Xinyu Dai
   - url: https://aclanthology.org/2021.findings-acl.142/
+
+- ACL2021: Few-Shot Event Detection with Prototypical Amortized Conditional Random Field
+  
+  - Author：Xin Cong, Shiyao Cui, Bowen Yu, Tingwen Liu, Wang Yubin, Bin Wang
+  - url：https://aclanthology.org/2021.findings-acl.3/
+
+- ACL2021：Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading
+
+  - Author：Zhihan Zhou, Liqian Ma, Han Liu
+  - url：https://aclanthology.org/2021.findings-acl.186/
  
 # Multi-Language:
 
