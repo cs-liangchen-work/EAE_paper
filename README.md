@@ -17,6 +17,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 - [Duee-fin: a document-level event extraction dataset in the financial domain released by baidu](https://aistudio.baidu.com/aistudio/competition/detail/46/0/task-definition)
 - [MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset](https://arxiv.org/abs/2205.06703)
 - [DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction](https://openreview.net/forum?id=rMMzsmmzHbq)
+- [Event Extraction from Historical Texts: A New Dataset for Black Rebellions](https://aclanthology.org/2021.findings-acl.211/)
 
 
 
