@@ -70,6 +70,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Xinya Du, Alexander M. Rush, Claire Cardie
   - url: https://arxiv.org/abs/2008.09249
 
+- ACL2021： TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction
+
+  - Authors: 
+  - url: 
+
 ### QA/MRC
 
 - EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
