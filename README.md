@@ -75,6 +75,12 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: 
   - url: 
 
+- ACL2021: Document-level Event Extraction via Parallel Prediction Networks
+
+  - Authors: Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang
+  - url: https://aclanthology.org/2021.acl-long.492/
+
+
 ### QA/MRC
 
 - EMNLP2020: **Event Extraction by Answering (Almost) Natural Questions**
