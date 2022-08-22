@@ -142,6 +142,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Yuan Liang, Zhuoxuan Jiang, di yin, Bo Ren
   - url: https://arxiv.org/abs/2206.03377
 
+- ACL2021：Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker
+
+  - Author：Runxin Xu, Tianyu Liu, Lei Li, Baobao Chang
+  - url：https://aclanthology.org/2021.acl-long.274/
+
 ### 图神经-GCN
 
 - ACL2021: Document-Level Event Argument Extraction via Optimal Transport
@@ -180,6 +185,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Manling Li, Sha Li, Zhenhailong Wang, Lifu Huang, Kyunghyun Cho, Heng Ji, Jiawei Han, Clare Voss
   - url: https://aclanthology.org/2021.emnlp-main.422.pdf
 
+- ACL2021：Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker
+
+  - Author：Runxin Xu, Tianyu Liu, Lei Li, Baobao Chang
+  - url：https://aclanthology.org/2021.acl-long.274/
 
 ### Others
 - NAACL2022-findings: Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
