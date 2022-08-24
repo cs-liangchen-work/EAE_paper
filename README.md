@@ -203,6 +203,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://arxiv.org/abs/2205.01376
   
 - ACL2021: Zero-shot Event Extraction via Transfer Learning: Challenges and Insights
+
   - 文本蕴含
   - Authors: Qing Lyu, Hongming Zhang, Elior Sulem, Dan Roth
   - url: https://aclanthology.org/2021.acl-short.42/
@@ -306,3 +307,8 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Xing David Wang, Ulf Leser, Leon Weber
   - url: https://aclanthology.org/2022.bionlp-1.28/
 
+# Event
+
+- ACL2021：Event-Centric Natural Language Processing
+
+  - 事件综述类文章
