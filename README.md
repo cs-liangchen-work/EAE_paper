@@ -201,6 +201,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - 文本蕴含
   - Authors: Oscar Sainz, Itziar Gonzalez-Dios, Oier Lopez de Lacalle, Bonan Min, Eneko Agirre
   - url: https://arxiv.org/abs/2205.01376
+  
+- ACL2021: Zero-shot Event Extraction via Transfer Learning: Challenges and Insights
+  - 文本蕴含
+  - Authors: Qing Lyu, Hongming Zhang, Elior Sulem, Dan Roth
+  - url: https://aclanthology.org/2021.acl-short.42/
 
 - ACL2021-CLEVE: Contrastive Pre-training for Event Extraction
   - 对比学习
