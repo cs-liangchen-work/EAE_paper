@@ -209,9 +209,16 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://aclanthology.org/2021.acl-short.42/
 
 - ACL2021-CLEVE: Contrastive Pre-training for Event Extraction
+  
   - 对比学习
   - Authors：Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li, Jie Zhou
   - url：https://aclanthology.org/2021.acl-long.491/
+
+- ACL2021: Modality and Negation in Event Extraction
+
+  - Linguistic modality，依存树
+  - Authors: Sander Bijl de Vroe, Liane Guillou, Miloš Stanojević, Nick McKenna, Mark Steedman
+  - url: https://aclanthology.org/2021.case-1.6/
 
 
 
