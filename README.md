@@ -321,6 +321,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Xing David Wang, Ulf Leser, Leon Weber
   - url: https://aclanthology.org/2022.bionlp-1.28/
 
+- ACL2021：PROTEST-ER: Retraining BERT for Protest Event Extraction
+
+  - Authors：Tommaso Caselli, Osman Mutlu, Angelo Basile, Ali Hürriyetoğlu
+  - url：https://aclanthology.org/2021.case-1.4/
+
 # Event
 
 - ACL2021：Event-Centric Natural Language Processing
