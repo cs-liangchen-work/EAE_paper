@@ -221,6 +221,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://aclanthology.org/2021.case-1.6/
 
 
+- ACL2021: ArgFuse: A Weakly-Supervised Framework for Document-Level Event Argument Aggregation
+
+  - Event Argument Aggregation：先句子级别提取，再文档级别过滤、
+  - Authors: Debanjana Kar, Sudeshna Sarkar, Pawan Goyal
+  - url: https://aclanthology.org/2021.case-1.5/
+
+
 
 
 # DA：数据增强（Data Augmentation）
