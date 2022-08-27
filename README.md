@@ -309,7 +309,24 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Author: Aakanksha Naik, Carolyn Rose
   - url: https://aclanthology.org/2020.acl-main.681/
+
+- ACL2020：Extensively Matching for Few-shot Learning Event Detection
+
+  - Author: Viet Dac Lai, Thien Huu Nguyen, Franck Dernoncourt
+  - url: https://aclanthology.org/2020.nuse-1.5/
+
+- EMNLP2020：Semi-supervised New Event Type Induction and Event Detection
+
+  - Author: Lifu Huang, Heng Ji
+  - url: https://aclanthology.org/2020.emnlp-main.53/
  
+- EMNLP2020：Incremental Event Detection via Knowledge Consolidation Networks
+
+  - Author: Pengfei Cao, Yubo Chen, Jun Zhao, Taifeng Wang
+  - url: https://aclanthology.org/2020.emnlp-main.52/
+ 
+
+
 # Multi-Language:
 
 - ACL2022: Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction
