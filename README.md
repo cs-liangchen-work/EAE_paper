@@ -4,6 +4,8 @@ based on https://github.com/carrie0307/DL_EventExtractionPapers.
 
 在自己读文章的时候，感觉分类更重要了，按自己的想法，简单对22年6月以来读的文章进行分类。
 
+只包含2020以来nlp3大主会的文章、
+
 Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含两个子任务：
   - Event Detection (ED): recognize event triggers
   - Event Argument Extraction (EAE): identify/recognize/extract/fill role
