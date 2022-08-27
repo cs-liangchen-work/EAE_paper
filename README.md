@@ -299,6 +299,16 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Author: Nghia Ngo Trung, Duy Phung, Thien Huu Nguyen
   - url: https://aclanthology.org/2021.findings-acl.351/
+
+- ACL2020: Improving Event Detection via Open-domain Trigger Knowledge
+
+  - Author：Meihan Tong, Bin Xu, Shuai Wang, Yixin Cao, Lei Hou, Juanzi Li, Jun Xie
+  - url：https://aclanthology.org/2020.acl-main.522/
+
+- ACL2020：Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation
+
+  - Author: Aakanksha Naik, Carolyn Rose
+  - url: https://aclanthology.org/2020.acl-main.681/
  
 # Multi-Language:
 
