@@ -18,6 +18,7 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 - [MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset](https://arxiv.org/abs/2205.06703)
 - [DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction](https://openreview.net/forum?id=rMMzsmmzHbq)
 - [Event Extraction from Historical Texts: A New Dataset for Black Rebellions](https://aclanthology.org/2021.findings-acl.211/)
+- [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
 
 
 
@@ -325,6 +326,28 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Author: Pengfei Cao, Yubo Chen, Jun Zhao, Taifeng Wang
   - url: https://aclanthology.org/2020.emnlp-main.52/
  
+- EMNLP2020：How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization
+
+  - Author: Jian Liu, Yubo Chen, Kang Liu, Yantao Jia, Zhicheng Sheng
+  - url: https://aclanthology.org/2020.findings-emnlp.229/
+
+- EMNLP2020：Introducing a New Dataset for Event Detection in Cybersecurity Texts
+
+  - Author: Hieu Man Duc Trong, Duc Trong Le, Amir Pouran Ben Veyseh, Thuat Nguyen, Thien Huu Nguyen
+  - url: https://aclanthology.org/2020.emnlp-main.433/
+
+- EMNLP2020：Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks
+
+  - Author: Viet Dac Lai, Tuan Ngo Nguyen, Thien Huu Nguyen
+  - url: https://aclanthology.org/2020.emnlp-main.435/
+
+
+- EMNLP2020：Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation
+
+  - Author: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi
+  - url: https://aclanthology.org/2020.findings-emnlp.211/
+
+
 
 
 # Multi-Language:
