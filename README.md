@@ -349,6 +349,10 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Author: Shiyao Cui, Bowen Yu, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi
   - url: https://aclanthology.org/2020.findings-emnlp.211/
 
+- NAACL2021：GTN-ED: Event Detection Using Graph Transformer Networks
+
+  - Authors：Sanghamitra Dutta, Liang Ma, Tanay Kumar Saha, Di Liu, Joel Tetreault, Alejandro Jaimes
+  - url：https://aclanthology.org/2021.textgraphs-1.13/
 
 
 
