@@ -378,8 +378,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors：Tommaso Caselli, Osman Mutlu, Angelo Basile, Ali Hürriyetoğlu
   - url：https://aclanthology.org/2021.case-1.4/
 
-# Event
+# 综述类文章
 
 - ACL2021：Event-Centric Natural Language Processing
 
-  - 事件综述类文章
+- NAACL2022：New Frontiers of Information Extraction
+
+  - Authors：Muhao Chen, Lifu Huang, Manling Li, Ben Zhou, Heng Ji, Dan Roth
+  - https://aclanthology.org/2022.naacl-tutorials.3/
