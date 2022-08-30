@@ -230,6 +230,12 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Debanjana Kar, Sudeshna Sarkar, Pawan Goyal
   - url: https://aclanthology.org/2021.case-1.5/
 
+- ACL2021：Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies
+
+  - joint learning event mention extraction, event coreference, and entity coreference
+  - Authors：Kung-Hsiang Huang, Nanyun Peng
+  - url：https://aclanthology.org/2021.nuse-1.4/
+
 
 
 
