@@ -156,6 +156,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Author：Runxin Xu, Tianyu Liu, Lei Li, Baobao Chang
   - url：https://aclanthology.org/2021.acl-long.274/
 
+- ACL2021: Document-level Event Extraction with Efficient End-to-end Learning of Cross-event Dependencies
+
+  - Authors：
+  - url：https://aclanthology.org/2021.nuse-1.4.pdf
+
 ### 图神经-GCN
 
 - ACL2021: Document-Level Event Argument Extraction via Optimal Transport
