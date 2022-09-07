@@ -257,6 +257,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url: https://aclanthology.org/2021.emnlp-main.441.pdf
 
 
+# 多模态
+
+- ACL2020：Cross-media Structured Common Space for Multimedia Event Extraction
+
+  - Authors：Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang
+  - url：https://aclanthology.org/2020.acl-main.230/
+  
 
 # ED:事件检测（event detection）
 - ACL2022: **Saliency as Evidence: Event Detection with Trigger Saliency Attribution**
