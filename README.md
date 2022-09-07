@@ -265,6 +265,15 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - url：https://aclanthology.org/2020.acl-main.230/
   
 
+
+# 可解释性（Interpretability）
+
+- ACL2020：Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder
+
+  - Authors：Zheng Tang, Gus Hahn-Powell, Mihai Surdeanu
+  - url：https://aclanthology.org/2020.acl-srw.23/
+
+
 # ED:事件检测（event detection）
 - ACL2022: **Saliency as Evidence: Event Detection with Trigger Saliency Attribution**
 
@@ -385,6 +394,8 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors: Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
   - url: https://openreview.net/forum?id=SlxGJEGHZq
+
+
 
 
 # Special-domain
