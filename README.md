@@ -260,6 +260,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Jiaming Shen, Yunyi Zhang, Heng Ji, Jiawei Han
   - url: https://aclanthology.org/2021.emnlp-main.441.pdf
 
+- EMNLP2020: Resource-Enhanced Neural Model for Event Argument Extraction
+
+  - Authors: Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros, Yaser Al-Onaizan
+  - url: https://aclanthology.org/2020.findings-emnlp.318/
+
 
 # 多模态
 
