@@ -241,7 +241,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors：Kung-Hsiang Huang, Nanyun Peng
   - url：https://aclanthology.org/2021.nuse-1.4/
 
+- ACL2020：Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding
 
+  - Multi-Granularity Contextualized Encoding：句子级 单个句子，文档集 多个句子一起的。
+  - Authors: Xinya Du, Claire Cardie
+  - url: https://aclanthology.org/2020.acl-main.714/
 
 
 # DA：数据增强（Data Augmentation）
