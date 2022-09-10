@@ -204,6 +204,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Author：Runxin Xu, Tianyu Liu, Lei Li, Baobao Chang
   - url：https://aclanthology.org/2021.acl-long.274/
 
+### 多轮对话
+
+- EMNLP2020：Event Extraction as Multi-turn Question Answering
+
+  - Authors：Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu, Yong Zhu
+  - url：https://aclanthology.org/2020.findings-emnlp.73/
+
 ### Others
 - NAACL2022-findings: Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
   - 文本蕴含
