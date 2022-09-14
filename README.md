@@ -437,6 +437,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors：Elaheh ShafieiBavani, Antonio Jimeno Yepes, Xu Zhong, David Martinez Iraola
   - url：https://aclanthology.org/2020.bionlp-1.21/
 
+- EMNLP2020：Biomedical Event Extraction as Sequence Labeling
+
+  - Authors：Alan Ramponi, Rob van der Goot, Rosario Lombardo, Barbara Plank
+  - url：https://aclanthology.org/2020.emnlp-main.431/
+
 
 # 综述类文章
 
