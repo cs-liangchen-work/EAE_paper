@@ -22,7 +22,9 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 - [Event Extraction from Historical Texts: A New Dataset for Black Rebellions](https://aclanthology.org/2021.findings-acl.211/)
 - [MAVEN: A Massive General Domain Event Detection Dataset](https://aclanthology.org/2020.emnlp-main.129/)
 
+数据集研究：
 
+- [BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? - A Study on the RAMS Dataset](https://aclanthology.org/2020.blackboxnlp-1.1/)
 
 # EAE:隐式事件抽取（event argument extraction）
 ### GEN-生成式
