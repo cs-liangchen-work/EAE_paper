@@ -204,6 +204,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Author：Runxin Xu, Tianyu Liu, Lei Li, Baobao Chang
   - url：https://aclanthology.org/2021.acl-long.274/
 
+- EMNLP2020：Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction
+
+  - Author：Amir Pouran Ben Veyseh, Tuan Ngo Nguyen, Thien Huu Nguyen
+  - url：https://aclanthology.org/2020.findings-emnlp.326/
+
 ### 多轮对话
 
 - EMNLP2020：Event Extraction as Multi-turn Question Answering
