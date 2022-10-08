@@ -1,9 +1,9 @@
 # ACL
 
-Open Domain Event Extraction Using Neural Latent Variable Models
+##### Open Domain Event Extraction Using Neural Latent Variable Models
 - Xiao Liu, Heyan Huang, Yue Zhang
 
-Exploring Pre-trained Language Models for Event Extraction and Generation
+##### Exploring Pre-trained Language Models for Event Extraction and Generation
 - Sen Yang | Dawei Feng | Linbo Qiao | Zhigang Kan | Dongsheng Li
 - first propose an event extraction model to overcome the roles overlap problem by separating the argument prediction in terms of roles.
 Moreover, to address the problem of insufficient training data
