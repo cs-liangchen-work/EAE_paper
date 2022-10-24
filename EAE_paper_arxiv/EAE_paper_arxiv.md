@@ -6,4 +6,9 @@
 
 - 因果推理，prompt
 
+[Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction](https://arxiv.org/abs/2210.10709)
+
+
+
+
 ##### 202209
