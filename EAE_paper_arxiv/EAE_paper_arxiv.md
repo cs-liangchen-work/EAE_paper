@@ -12,4 +12,8 @@
 
 [EventGraph at CASE 2021 Task 1: A General Graph-based Approach to Protest Event Extraction](https://arxiv.org/abs/2210.09770)
 
+[Event Extraction: A Survey](https://arxiv.org/abs/2210.03419#)
+
+[Generalizing through Forgetting -- Domain Generalization for Symptom Event Extraction in Clinical Notes](https://arxiv.org/abs/2209.09485)
+
 ##### 202209
