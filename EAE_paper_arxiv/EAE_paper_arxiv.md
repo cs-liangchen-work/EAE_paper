@@ -10,5 +10,6 @@
 
 [EventGraph: Event Extraction as Semantic Graph Parsing](https://arxiv.org/abs/2210.08646)
 
+[EventGraph at CASE 2021 Task 1: A General Graph-based Approach to Protest Event Extraction](https://arxiv.org/abs/2210.09770)
 
 ##### 202209
