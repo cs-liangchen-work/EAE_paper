@@ -16,4 +16,6 @@
 
 [Generalizing through Forgetting -- Domain Generalization for Symptom Event Extraction in Clinical Notes](https://arxiv.org/abs/2209.09485)
 
+[Increasing Adverse Drug Events extraction robustness on social media: case study on negation and speculation](https://arxiv.org/abs/2209.02812)
+
 ##### 202209
