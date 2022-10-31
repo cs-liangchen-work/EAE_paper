@@ -28,6 +28,8 @@
 
 [End-to-end Clinical Event Extraction from Chinese Electronic Health Record](https://arxiv.org/abs/2208.09354)
 
+[Bi-Directional Iterative Prompt-Tuning for Event Argument Extraction](https://arxiv.org/pdf/2210.15843.pdf)
 
+- Prompt
 
 ##### 202209
