@@ -289,6 +289,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors: Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros, Yaser Al-Onaizan
   - url: https://aclanthology.org/2020.findings-emnlp.318/
 
+- EMNLP2019：Exploring Pre-trained Language Models for Event Extraction and Generation
+
+  - Authors: Sen Yang, Dawei Feng, Linbo Qiao, Zhigang Kan, Dongsheng Li
+  - url: https://aclanthology.org/P19-1522.pdf
+
 
 # 多模态
 
