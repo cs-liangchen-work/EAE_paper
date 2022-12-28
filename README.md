@@ -140,6 +140,11 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
   - Authors：Yunmo Chen, Tongfei Chen, Seth Ebner, Aaron Steven White, Benjamin Van Durme
   - url：https://aclanthology.org/2020.spnlp-1.9/
+ 
+- ACL2021: Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction
+
+  - Author: Kaiwen Wei, Xian Sun, Zequn Zhang, Jingyuan Zhang, Guo Zhi, Li Jin
+  - url: https://aclanthology.org/2021.acl-long.360.pdf
 
 ### Multi-event
 
