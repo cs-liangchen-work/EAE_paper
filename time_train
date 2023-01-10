@@ -1,0 +1,6 @@
+import datetime
+start = datetime.datetime.now()
+self.train()
+end = datetime.datetime.now()
+print(end - start)
+assert False
