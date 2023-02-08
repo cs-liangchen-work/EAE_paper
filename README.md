@@ -424,7 +424,41 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
   - Authors：Sanghamitra Dutta, Liang Ma, Tanay Kumar Saha, Di Liu, Joel Tetreault, Alejandro Jaimes
   - url：https://aclanthology.org/2021.textgraphs-1.13/
 
+- EMNLP2022：Few-Shot Cross-Lingual Learning for Event Detection
 
+  - Author: Luis Guzman Nateras, Viet Lai, Franck Dernoncourt, Thien Nguyen
+  - url: https://aclanthology.org/2022.mrl-1.2/
+
+- EMNLP2022：Event-Based Knowledge MLM for Arabic Event Detection
+
+  - Author: Asma Z Yamani, Amjad K Alsulami, Rabeah A Al-Zaidy
+  - url: https://aclanthology.org/2022.wanlp-1.25/
+ 
+- EMNLP2022：ArabIE: Joint Entity, Relation and Event Extraction for Arabic
+
+  - Author: Niama El Khbir, Nadi Tomeh, Thierry Charnois
+  - url: https://aclanthology.org/2022.wanlp-1.31/
+ 
+- EMNLP2022：MUSIED: A Benchmark for Event Detection from Multi-Source Heterogeneous Informal Texts
+
+  - Author: Xiangyu Xi, Jianwei Lv, Shuaipeng Liu, Wei Ye, Fan Yang, Guanglu Wan
+  - url: https://aclanthology.org/2022.emnlp-main.191/
+
+- EMNLP2022：HCL-TAT: A Hybrid Contrastive Learning Method for Few-shot Event Detection with Task-Adaptive Threshold
+
+  - Author: Ruihan Zhang, Wei Wei, Xian-Ling Mao, Rui Fang, Dangyang Chen
+  - url: https://aclanthology.org/2022.findings-emnlp.130/
+ 
+- EMNLP2022：Knowledge-Enhanced Self-Supervised Prototypical Network for Few-Shot Event Detection
+
+  - Author: Kailin Zhao, Xiaolong Jin, Long Bai, Jiafeng Guo, Xueqi Cheng
+  - url: https://aclanthology.org/2022.findings-emnlp.467/
+
+- EMNLP2022：A Hybrid Knowledge and Transformer-Based Model for Event Detection with Automatic Self-Attention Threshold, Layer and Head Selection
+
+  - Author: Thierry Desot, Orphee De Clercq, Veronique Hoste
+  - url: https://aclanthology.org/2022.case-1.4/
+ 
 
 # Multi-Language:
 
