@@ -175,6 +175,13 @@ Event Extraction (EE) 是 Information Extraction (IE) 的一个分支，包含�
 
 ### 图神经-GCN
 
+- EMNLP2022: EventGraph: Event Extraction as Semantic Graph Parsing
+
+  - Authors: Huiling You, David Samuel, Samia Touileb, Lilja Øvrelid
+  - url: https://aclanthology.org/2022.case-1.2/
+
+
+
 - ACL2021: Document-Level Event Argument Extraction via Optimal Transport
 
   - Authors: Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Bonan Min and Thien Huu Nguyen
