@@ -15,4 +15,10 @@ Learning from Language Description: Low-shot Named Entity Recognition via Decomp
 （将任务分解成跨度检测 以及 实体类推理 两个子任务）。
   
   
-  
+### CONTAINER: Few-Shot Named Entity Recognition via Contrastive Learning
+https://aclanthology.org/2022.acl-long.439.pdf
+
+### Decomposed Meta-Learning for Few-Shot Named Entity Recognition
+https://aclanthology.org/2022.findings-acl.124.pdf
+
+
