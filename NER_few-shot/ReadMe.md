@@ -21,4 +21,8 @@ https://aclanthology.org/2022.acl-long.439.pdf
 ### Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 https://aclanthology.org/2022.findings-acl.124.pdf
 
+### Label Semantics for Few Shot Named Entity Recognition
+https://aclanthology.org/2022.findings-acl.155.pdf
 
+### A Comparative Study of Pre-trained Encoders for Low-Resource Named Entity Recognition
+https://aclanthology.org/2022.repl4nlp-1.6/
